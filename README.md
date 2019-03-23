@@ -1,4 +1,4 @@
-# jquery.codeIt
+# jquery.mapIt
 
 A simple jquery plugin that generates links from postcodes / zipcodes to google maps (can be customised).
 
